@@ -47,7 +47,7 @@ export default function SignUp(props) {
     }
 
 
-    const host = "http://localhost:8000";
+    const host = "https://code16server.onrender.com";
 
     const [cred, setCred] = useState({name: "", email: "", password: "", image: ""})
     const navigate = useNavigate();

@@ -62,7 +62,7 @@ export default function UserDashboard() {
         </div>
         <div className="proImage">
           {user.image && (
-            <img className="proImageUser" src={`http://localhost:8000/${user.image}`} alt="User" />
+            <img className="proImageUser" src={`https://code16server.onrender.com/${user.image}`} alt="User" />
           )}
         </div>
         <div className="two" style={{ justifyContent: "center" }}>

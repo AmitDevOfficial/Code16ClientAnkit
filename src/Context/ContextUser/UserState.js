@@ -2,7 +2,7 @@ import UserContext from "./userContext";
 import { useState } from "react";
 
 const UserState = (props) => {
-    const host = "http://localhost:8000";
+    const host = "https://code16server.onrender.com";
 
   const userInitial = []
 

@@ -3,7 +3,7 @@ import NoteContext from './noteContext'
 // import Note from '../../../Server/models/Note'
 
 export default function NoteState(props) {
-    const host = "http://localhost:8000";
+    const host = "https://code16server.onrender.com";
     const noteInitial = []
     const [notes, setNotes] = useState(noteInitial)
 

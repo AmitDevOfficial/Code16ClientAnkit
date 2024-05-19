@@ -44,7 +44,7 @@ export default function Admin() {
           <div className="userBio dash-heading">
             <div className="adminImage">
               {user.image && (
-                <img className="usreBioImg" src={`http://localhost:8000/${user.image}`} alt="User" />
+                <img className="usreBioImg" src={`https://code16server.onrender.com/${user.image}`} alt="User" />
               )}
             </div>
             <p>{user.name}</p>

@@ -34,6 +34,7 @@ export default function (props) {
               <li><Link to="/course">Course</Link></li>
               <li><Link to="/toutrial">Tutorial</Link></li>
               <li><Link to="/blog">Blog</Link></li>
+              <li><Link to="/admin">Admin</Link></li>
               <li className="btn"><Link to='/contact'>Contact</Link></li>
               {isLoggedIn && <span><Notes/></span>}
             </ul>

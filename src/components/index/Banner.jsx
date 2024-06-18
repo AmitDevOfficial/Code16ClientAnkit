@@ -1,5 +1,5 @@
 // import typewriter from '../js/body'
-import robo from '../videos/robo2.gif';
+import sandClock from '../photos/sandClock.png';
 import Home from './Home';
 import HomeBook from './HomeBook';
 import Youtube from './Youtube';
@@ -28,7 +28,7 @@ export default function Banner() {
           <button><Link  to="/intro">Intro</Link ></button>
         </div>
         <div className='robo'>
-          <img src={robo} alt="loading" />
+          <img src={sandClock} alt="sandClock" />
         </div>
       </div>
       

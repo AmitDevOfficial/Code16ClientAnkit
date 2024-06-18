@@ -58,6 +58,7 @@
 }
 .robo img{
   width: 65%;
+  filter: hue-rotate(309deg);
 }
 
 .btn button {

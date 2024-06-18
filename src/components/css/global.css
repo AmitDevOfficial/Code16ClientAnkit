@@ -21,10 +21,10 @@ body{
 }
 :root{
     --reverse: #000000;
-    --primary: #22cd54;
+    --primary: #13993a;
     --secondary: #221d1d;
     --tertiary: #1f2937;
-    --sidebar: #22cd54;
+    --sidebar: #13993a;
     --sidebarfont: #ffffff;
     --dark: #ffffff;
     /* --overlay:  */
@@ -32,11 +32,11 @@ body{
 
   [data-theme="dark"]{
     --reverse: #ffffff;
-    --primary: #22cd54;
-    --secondary: #22cd54;
+    --primary: #13993a;
+    --secondary: #13993a;
     --tertiary: #eaeef2;
     --sidebar: #000000;
-    --sidebarfont: #22cd54;
+    --sidebarfont: #13993a;
     --dark: #000000;
 
   }

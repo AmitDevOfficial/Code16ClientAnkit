@@ -51,7 +51,7 @@ export default function (props) {
               </ul>
             </div> }
             <div className='change-body'>
-            <FontAwesomeIcon onClick={props.toggleMode} icon={ props.mode === 'light' ?  faMoon : faSun} size="2x" color="#9333ea" />
+            <FontAwesomeIcon onClick={props.toggleMode} icon={ props.mode === 'light' ?  faMoon : faSun} size="2x" color="#13993a" />
             </div>
           </div>
         </div>

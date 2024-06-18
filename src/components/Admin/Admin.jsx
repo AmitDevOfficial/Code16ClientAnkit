@@ -28,7 +28,7 @@ export default function Admin() {
   console.log("Admin Layout", user)
 
   if (isLoading) {
-    return <center className='ringLoader'><RingLoader color="#8f3ae4" size={70}/></center>
+    return <center className='ringLoader'><RingLoader color="#13993a" size={70}/></center>
   }
 
   if (!user.isAdmin) {

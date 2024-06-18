@@ -28,7 +28,7 @@ export default function Banner() {
           <button><Link  to="/intro">Intro</Link ></button>
         </div>
         <div className='robo'>
-          <img src={sandClock} alt="sandClock" />
+          <img src={sandClock} alt="sandClock"/>
         </div>
       </div>
       

@@ -199,6 +199,6 @@ svg.myicon {
   }
   
   .cpywrite span{
-    color: #c17eff;
+    color: var(--primary);
   }
 

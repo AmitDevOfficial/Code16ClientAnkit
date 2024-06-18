@@ -223,7 +223,7 @@
   padding-top: 240px;
 }
 .easySearch {
-  background-image: linear-gradient(to bottom right, rgb(181 61 255), rgb(131 198 137));
+  background-image: linear-gradient(to bottom right, #289941, #a6e7ac);
   text-align: center;
   padding: 50px;
   border-radius: 20px;
@@ -381,7 +381,7 @@
 
 .howStart-main img{
   width: 30%;
-  background-color: #70b03e;
+  background-color: #e559b2;
   border-radius: 30px;
   padding: 1rem;
   margin: auto;

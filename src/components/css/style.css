@@ -482,7 +482,7 @@
   border: 2px solid var(--primary);
 }
 .dash-heading {
-  background: linear-gradient(to right, #a900ff 0%, #ff03a3f2 100%);
+  background: linear-gradient(90deg, #1ac53f 0, #13ff03f2);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
